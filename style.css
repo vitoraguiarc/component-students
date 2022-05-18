@@ -1,0 +1,20 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-alunos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: auto;
+
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
